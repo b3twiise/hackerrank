@@ -25,7 +25,7 @@ def my_sol_check(exo, exp):
             the_out.close()
             return ''.join(diff)
     
-def judge(fname1, fname2)
+def judge(fname1, fname2):
     """ https://www.opentechguides.com/how-to/article/python/58/python-file-comparison.html"""
     # Ask the user to enter the names of files to compare
 
